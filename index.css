@@ -1,22 +1,25 @@
 body {
     text-align: center;
 }
+
+form {
+    width: 60%;
+    margin: auto auto;
+    max-width: 600px;
+    min-width: 400px;
+}
+
 .twoparts {
     display: grid;
-    margin-left: 36%;
-    max-width: 30%;
-    min-width: 25%;
+    width: 100%;
     gap: 30px;
-    padding: 10px;
+    padding: 10px 0px;
     grid-template-columns: auto auto;
 }
 .oneitem {
     display: grid;
-    margin-left: 36%;
-    max-width: 30%;
-    min-width: 25%;
-    gap: 30px;
-    padding: 10px;
+    width:100%;
+    padding: 10px 0px;
 }
 
 input {
