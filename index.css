@@ -55,12 +55,12 @@ span {
     min-width: 4rem;
     font-size: 0.96rem;
     text-align: center;
-    border:#448cf7 solid 4px;
+    border:rgb(83,139,197)solid 4px;
     border-radius: 4px;
 }
 
 a {
-    color:#0d6efd;
+    color:rgb(83,139,197);
     text-decoration: none;
 }
 
