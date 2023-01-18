@@ -30,6 +30,12 @@ input {
     
 }
 
+input:focus {
+    outline: none;
+    border: 2px solid #acd4f3;
+    box-shadow: 1px 1px 3px #acd4f3, -1px -1px 3px #acd4f3;
+}
+
 button {
     line-height: 2.4rem;
     border-radius: 6px;
