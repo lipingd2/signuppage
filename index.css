@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+}
+.twoparts {
+    display: grid;
+    margin-left: 20%;
+    width: 60%;
+    gap: 30px;
+    padding: 10px;
+    grid-template-columns: auto auto;
+}
+.oneitem {
+    display: grid;
+    margin-left: 20%;
+    width: 60%;
+    gap: 30px;
+    padding: 10px;
+}
+
+input {
+    line-height: 2rem;
+}
+
+button {
+    line-height: 2rem;
+}
+
+.blueButton {
+    background-color: #0d6efd;
+    border: none;
+    color: white;
+}
+
+.greenButton {
+    background-color: #198764;
+    border: none;
+    color: white;
+}
+
+label {
+   
+}
+
+p {
+    text-align: start;
+}
+
+span {
+    display: inline-block;
+    background-color:#0d6efd;
+    color: white;
+}
+
+a {
+    color:#0d6efd;
+    text-decoration: none;
+}
+
+.register {
+    display: inline-block;
+    height: 40px;
+    width: 60px;
+}
